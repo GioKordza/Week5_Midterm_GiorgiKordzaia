@@ -1,0 +1,1 @@
+In Task 3C, I modified one letter in data.txt and got a different HMAC. This proves that HMAC can detect any change in the file and ensures integrity. 

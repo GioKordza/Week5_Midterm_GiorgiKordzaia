@@ -1,0 +1,5 @@
+Diffie-Hellman is a cryptographic algorithm used to securely exchange encryption keys over an insecure channel. 
+It is commonly used in protocols like TLS (for secure websites), VPNs, and secure messaging apps like Signal. 
+The main benefit is that the shared secret is never transmitted; instead, each side computes it independently. 
+This makes it very hard for attackers to intercept or guess the key, even if they capture the traffic. 
+This key exchange method is essential for maintaining confidentiality in online communications. 
